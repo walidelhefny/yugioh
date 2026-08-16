@@ -1,6 +1,6 @@
 # Yu-Gi-Oh! Game
 
-A two-player desktop card game implemented in Java Swing.
+A two-player desktop card game implemented in Java Swing for a course project at the German University in Cairo (GUC).
 
 ## Requirements
 
